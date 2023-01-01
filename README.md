@@ -1,4 +1,4 @@
-I have decided to stop working on this project. Burgertunes will still work and you can fork it if you want to make any changes.
+I have decided to stop working on this project. Burgertunes will still work, and you can fork it if you want to make any changes.
 
 <h1>🍔 Burgertunes</h1>
 Privacy-respecting YouTube Music frontend with no ads or telemetry! <br>
